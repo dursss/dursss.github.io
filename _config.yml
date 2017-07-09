@@ -1,6 +1,6 @@
 # Site settings
 title: AI JUN'S LIVE
-SEOTitle: 爱俊的小窝 | BY Blog
+SEOTitle: 爱俊的小窝
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "每个胜利背后都有许多尝试"
@@ -92,18 +92,18 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+#friends: [
+#    {
+#        title: "WY",
+ #       href: "http://zhengwuyang.com"
+#    },{
+#        title: "简书·BY",
+#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#    },{
+#        title: "Apple",
+#        href: "https://apple.com"
+#    },{
+#        title: "Apple Developer",
+#        href: "https://developer.apple.com/"
+#    }
+#]
