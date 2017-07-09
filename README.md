@@ -1,1 +1,1 @@
-### [AIJUN'S BLOG &rarr;](http://www.aijun.design)
+### [AIJUN'S BLOG](http://www.aijun.design)
